@@ -1,0 +1,2 @@
+# Deep_Evidential_Regression_Pytorch
+Deep Evidential Regression Pytorch Version
